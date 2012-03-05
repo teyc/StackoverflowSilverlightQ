@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackOverflowSl", "StackOverflowSl\StackOverflowSl.csproj", "{D7D9A3D6-4268-4795-9B68-F175BCCA5F6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackOverflowSl.Web", "StackOverflowSl.Web\StackOverflowSl.Web.csproj", "{F75AB580-7B87-4761-841D-F40A8EBAD243}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7D9A3D6-4268-4795-9B68-F175BCCA5F6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7D9A3D6-4268-4795-9B68-F175BCCA5F6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7D9A3D6-4268-4795-9B68-F175BCCA5F6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7D9A3D6-4268-4795-9B68-F175BCCA5F6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F75AB580-7B87-4761-841D-F40A8EBAD243}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F75AB580-7B87-4761-841D-F40A8EBAD243}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F75AB580-7B87-4761-841D-F40A8EBAD243}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F75AB580-7B87-4761-841D-F40A8EBAD243}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -43,6 +43,10 @@
                         <local:QuestionCollection>
                             <local:Question QuestionTitle="Subclass ChildWindow" Type="answer:Q9549149" />
                             <local:Question QuestionTitle="Silverlight set property path in converter?" Type="answer:Q9556798" Url="http://stackoverflow.com/questions/9556798" />
+                            <local:Question QuestionTitle="Update Groups upon property change" Type="answer:Q10858229" Url="http://stackoverflow.com/questions/10858229" />
+                            <local:Question QuestionTitle="SelectedItem in DataGrid" Type="answer:Q11781859" Url="http://stackoverflow.com/questions/11781859" />
+							<local:Question QuestionTitle="ComboBox filter items" Type="answer:Q12513294" Url="http://stackoverflow.com/questions/12513294" />
+							
                         </local:QuestionCollection>
                     </ItemsControl.ItemsSource>
                 </ItemsControl>
